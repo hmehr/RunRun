@@ -33,7 +33,7 @@ public class MainActivity extends FragmentActivity implements
 	SectionsPagerAdapter mSectionsPagerAdapter;
 
 	/**
-	 * The {@link ViewPager} that will host the section contents.
+	 * The {@link ViewPager} that will host the section contents
 	 */
 	ViewPager mViewPager;
 
