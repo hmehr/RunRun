@@ -6,5 +6,51 @@
     <string name="title_section1">Section 1</string>
     <string name="title_section2">Section 2</string>
     <string name="title_section3">Section 3</string>
+    <string name="firstpage_q1">1) Enter running distance.(in m)</string>
+    <string name="firstpage_A1">20</string>
+    <string name="firstpage_q2">2) Enter time to run the distance. (in  S)</string>
+    <string name="firstpage_A2">60</string>
+    <string name="firstpage_q3">3) Select a beep sound.</string>
+    <string name="firstpage_q4">4) Select a time decrement rate. (in %)</string>
+    <string name="firstpage_A4">10</string>
+    <string name="firstpage_q5">5) Enter your name.</string>
+    <string name="firstpage_q6">6) Press START when ready.</string>
+    <string name="firstpage_START">START</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="beep_arrays">
+        <item>Blue Solar</item>
+        <item>Jungle Boom</item>
+        <item>Silent Desert</item>
+    </string-array>
+
+    <string name="title_activity_timer">TimerActivity</string>
+
+    <string name="laps_completed_lable">Laps Completed</string>
+
+    <string name="laps_completed">0</string>
+
+    <string name="total_distance_lable">Total Distance</string>
+
+    <string name="top_speed_lable">Top Speed</string>
+
+    <string name="total_time_lable">Total Time</string>
+
+    <string name="initial_speed_label">Initial Speed</string>
+
+    <string name="average_speed_lable">Average Speed</string>
+
+    <string name="total_distance">0</string>
+
+    <string name="top_speed">0</string>
+
+    <string name="total_time">0</string>
+
+    <string name="initial_speed">0</string>
+
+    <string name="average_speed">0</string>
+
+    <string name="stop">STOP</string>
 
 </resources>
