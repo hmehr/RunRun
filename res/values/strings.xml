@@ -51,6 +51,6 @@
 
     <string name="average_speed">0</string>
 
-    <string name="stop">STOP</string>
+    <string name="stop">START</string>
 
 </resources>
