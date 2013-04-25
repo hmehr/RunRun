@@ -118,15 +118,6 @@
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <TextView
-        android:id="@+id/textView1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/timer"
-        android:layout_below="@+id/timer"
-        android:layout_marginTop="76dp"
-        android:text="@string/laps_completed_lable" />
-
-    <TextView
         android:id="@+id/averageSpeedTxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -142,5 +133,14 @@
         android:layout_below="@+id/timer"
         android:layout_centerHorizontal="true"
         android:text="@string/stop" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button1"
+        android:layout_marginTop="34dp"
+        android:layout_toLeftOf="@+id/button1"
+        android:text="@string/laps_completed_lable" />
 
 </RelativeLayout>

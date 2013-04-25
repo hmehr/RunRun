@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
 	// belong here.
 	// ------------------------------------------------------------------------------------
 	private String getEditTextFieldText(int fieldId) {
-		EditText field = (EditText) findViewById(fieldId);
+		EditText field = (EditText) findViewById(fieldId);		
 		return field.getText().toString();
 	}
 
