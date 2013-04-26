@@ -26,6 +26,10 @@
             android:name="com.soen.runrun.TimerActivity"
             android:label="@string/title_activity_timer" >
         </activity>
+        <activity
+            android:name="com.soen.runrun.LogActivity"
+            android:label="@string/title_activity_log" >
+        </activity>
     </application>
 
 </manifest>

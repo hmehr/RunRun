@@ -26,6 +26,13 @@ public class MainActivity extends Activity {
 		intent.putExtra("com.soen.runrun.preference", prefs);
 		startActivity(intent);
 	}
+	
+	public void showLog (View view){
+		
+		
+		Intent intent = new Intent(this,LogActivity.class);
+		startActivity(intent);
+	}
 
 	
 

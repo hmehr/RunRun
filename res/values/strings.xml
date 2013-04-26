@@ -20,37 +20,26 @@
     <string name="hello_world">Hello world!</string>
 
     <string-array name="beep_arrays">
-        <item>Blue Solar</item>
-        <item>Jungle Boom</item>
-        <item>Silent Desert</item>
+        <item>blue</item>
+        <item>jungle</item>
+        <item>desert</item>
     </string-array>
 
     <string name="title_activity_timer">TimerActivity</string>
-
     <string name="laps_completed_lable">Laps Completed</string>
-
     <string name="laps_completed">0</string>
-
-    <string name="total_distance_lable">Total Distance</string>
-
-    <string name="top_speed_lable">Top Speed</string>
-
-    <string name="total_time_lable">Total Time</string>
-
-    <string name="initial_speed_label">Initial Speed</string>
-
-    <string name="average_speed_lable">Average Speed</string>
-
+    <string name="total_distance_lable">Total Distance(m)</string>
+    <string name="top_speed_lable">Top Speed(m/s)</string>
+    <string name="total_time_lable">Total Time(s)</string>
+    <string name="initial_speed_label">Initial Speed(m/s)</string>
+    <string name="average_speed_lable">Average Speed(m/s)</string>
     <string name="total_distance">0</string>
-
     <string name="top_speed">0</string>
-
     <string name="total_time">0</string>
-
     <string name="initial_speed">0</string>
-
     <string name="average_speed">0</string>
-
     <string name="stop">START</string>
+    <string name="logButton">Logs</string>
+    <string name="title_activity_log">LogActivity</string>
 
 </resources>

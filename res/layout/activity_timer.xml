@@ -15,7 +15,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textSize="@android:dimen/notification_large_icon_height" />
+        android:textSize="@android:dimen/notification_large_icon_height"/>
 
     <TextView
         android:id="@+id/textView4"
@@ -139,5 +139,13 @@
         android:layout_marginTop="34dp"
         android:layout_toLeftOf="@+id/button1"
         android:text="@string/laps_completed_lable" />
+
+    <TextView
+        android:id="@+id/Info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/timer"
+        android:layout_centerHorizontal="true"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
 
 </RelativeLayout>
